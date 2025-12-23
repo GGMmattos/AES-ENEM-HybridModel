@@ -14,7 +14,7 @@ O modelo híbrido alcançou um **QWK médio de 0,42**, demonstrando ser superior
 ## 🛠️ Ferramentas e Tecnologias
 
 ### Linguagem e Ambiente
-* **Python 3.x**: Linguagem principal.
+* **Python 3**: Linguagem principal.
 * **Google Colab**: Ambiente de desenvolvimento (utilizando GPU T4).
 
 ### Frameworks e Bibliotecas
@@ -57,4 +57,4 @@ O treinamento deve ser realizado de forma independente para cada uma das 5 compe
 * **Destaque:** Competência 5 (Proposta de Intervenção) obteve o maior pico de concordância (QWK 0,53) em redações de alto consenso humano.
 
 ---
-**Desenvolvido por [Seu Nome] - 2025**
+**Desenvolvido por Gabriel Gonçalves de Matos - 2025**
